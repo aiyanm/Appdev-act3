@@ -1,0 +1,17 @@
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\obj\Debug\appdev_PETA.csproj.AssemblyReference.cache
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\obj\Debug\appdev_PETA.FrmAdd.resources
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\obj\Debug\appdev_PETA.FrmDelete.resources
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\obj\Debug\appdev_PETA.FrmEdit.resources
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\obj\Debug\appdev_PETA.frmLogin.resources
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\obj\Debug\appdev_PETA.FrmMain.resources
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\obj\Debug\appdev_PETA.Properties.Resources.resources
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\obj\Debug\appdev_PETA.csproj.GenerateResource.cache
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\obj\Debug\appdev_PETA.csproj.CoreCompileInputs.cache
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\bin\Debug\appdev_PETA.exe.config
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\bin\Debug\appdev_PETA.exe
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\bin\Debug\appdev_PETA.pdb
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\bin\Debug\System.Data.OleDb.dll
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\bin\Debug\System.Data.OleDb.xml
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\obj\Debug\appdev_PETA.csproj.CopyComplete
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\obj\Debug\appdev_PETA.exe
+C:\Users\kyle_\source\repos\appdev_PETA\appdev_PETA\obj\Debug\appdev_PETA.pdb
